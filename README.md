@@ -1,4 +1,4 @@
---># Hey, I'm Mikael (Kikks) 👋
+# Hey, I'm Mikael (Kikks) 👋
 
 I'm a **BSIT graduate from Cebu Institute of Technology – University** focusing on **frontend web development**.
 
