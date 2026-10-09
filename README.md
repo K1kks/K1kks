@@ -24,7 +24,7 @@ A team-built event web application. My assigned contribution focused on the book
 
 ## 🔗 Find me online
 
-- **Portfolio:** Add your deployed portfolio URL here after publishing
+- **Portfolio:** [My Portfolio](https://k1kks.github.io/Kikks.github.io/)
 - **LinkedIn:** [Mikael Lorenzo Cuyugan](https://www.linkedin.com/in/mikael-lorenzo-cuyugan-6b2a99410/)
 - **Email:** [mikaellorenzocuyugan@gmail.com](mailto:mikaellorenzocuyugan@gmail.com)
 
