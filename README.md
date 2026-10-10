@@ -35,5 +35,3 @@ Team marketplace project. My cart-focused contribution included UI for cart navi
 - **Email:** [mikaellorenzocuyugan@gmail.com](mailto:mikaellorenzocuyugan@gmail.com)
 
 ---
-
-*Learn it. Build it. Explain it.*
