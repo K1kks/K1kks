@@ -1,34 +1,39 @@
 # Hey, I'm Mikael (Kikks) 👋
 
-I'm a **BSIT graduate from Cebu Institute of Technology – University** focusing on **frontend web development**.
+I'm a **2026 BSIT graduate from Cebu Institute of Technology – University** focusing on **junior frontend development**.
 
-I have contributed to team projects by implementing event and booking pages from Figma references, using AI-assisted development, and checking that UI flows behave as expected. I'm now strengthening my JavaScript and React fundamentals so I can build and explain more of my code independently.
+I have contributed to university team projects by implementing assigned UI features, working from Figma references, checking page behavior, and collaborating through GitHub. I have used AI-assisted coding in project work, and I'm now strengthening my JavaScript and React fundamentals so I can build and explain more of my code independently.
 
-## 🧰 Tools I've worked with
+## Featured work
 
-- **Frontend:** HTML, CSS, JavaScript fundamentals, React (AI-assisted project experience)
-- **Tools:** Git, GitHub, Figma
-- **Also familiar with:** MySQL fundamentals and REST API integration basics
+### [MolarCare — Dental Clinic Portal Prototype](https://k1kks.github.io/DentalCare/)
+A personal HTML/CSS/JavaScript learning prototype with appointment-slot rules, a clickable FDI dental chart, sample treatment history, a clinic-desk workflow, and six-month cleaning recall logic. Demo-only data is stored in the browser; it is not production clinic software and does not send SMS.
 
-## 🚧 Featured project
+### [CIT-U MarketMatch](https://github.com/Espina28/CIT-U-MARKET-MATCH)
+Team marketplace project. My cart-focused contribution included UI for cart navigation, item/total pricing, partial cart scrolling, and interface fixes, as reflected in my commit history.
 
-### [EventEase — Team Capstone](https://github.com/mr123ivan/EventEase)
-A team-built event web application. My assigned contribution focused on the booking and event pages, implementing UI from Figma references and checking event listing, navigation, and event details. Backend and overall architecture were handled by other team members.
+### [EventEase](https://github.com/mr123ivan/EventEase)
+Team capstone. My assigned contribution focused on event and booking pages implemented with AI assistance from teammate-provided Figma references and checked against requirements.
 
-## 🌱 Currently learning
+## Tools I've used
 
-- JavaScript fundamentals
+- **Frontend:** HTML, CSS, JavaScript fundamentals, React (beginner/project exposure)
+- **Tools:** Git, GitHub, VS Code, Figma
+- **Also familiar with:** REST API integration basics, MySQL academic fundamentals
+
+## Currently learning
+
+- JavaScript fundamentals and DOM interactions
 - React components, props, state, and hooks
-- Responsive design and accessible HTML
-- Fetching data from APIs and handling loading/error states
+- Responsive styling and accessible HTML
+- API requests, data handling, and error states
 
-## 🔗 Find me online
+## Find me online
 
-- **Portfolio:** [My Portfolio](https://k1kks.github.io/Kikks.github.io/)
-- **LinkedIn:** [Mikael Lorenzo Cuyugan](https://www.linkedin.com/in/mikael-lorenzo-cuyugan-6b2a99410/)
+- **Portfolio:** https://k1kks.github.io/Kikks.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/mikael-lorenzo-cuyugan-6b2a99410/
 - **Email:** [mikaellorenzocuyugan@gmail.com](mailto:mikaellorenzocuyugan@gmail.com)
 
 ---
 
-*Learning one component at a time.*
-
+*Learn it. Build it. Explain it.*
