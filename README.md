@@ -9,11 +9,11 @@ I have contributed to university team projects by implementing assigned UI featu
 ### [MolarCare — Dental Clinic Portal Prototype](https://k1kks.github.io/DentalCare/)
 A personal HTML/CSS/JavaScript learning prototype with appointment-slot rules, a clickable FDI dental chart, sample treatment history, a clinic-desk workflow, and six-month cleaning recall logic. Demo-only data is stored in the browser; it is not production clinic software and does not send SMS.
 
-### [CIT-U MarketMatch](https://github.com/Espina28/CIT-U-MARKET-MATCH)
-Team marketplace project. My cart-focused contribution included UI for cart navigation, item/total pricing, partial cart scrolling, and interface fixes, as reflected in my commit history.
-
 ### [EventEase](https://github.com/mr123ivan/EventEase)
 Team capstone. My assigned contribution focused on event and booking pages implemented with AI assistance from teammate-provided Figma references and checked against requirements.
+
+### [CIT-U MarketMatch](https://github.com/Espina28/CIT-U-MARKET-MATCH)
+Team marketplace project. My cart-focused contribution included UI for cart navigation, item/total pricing, partial cart scrolling, and interface fixes, as reflected in my commit history.
 
 ## Tools I've used
 
