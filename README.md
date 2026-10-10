@@ -30,7 +30,7 @@ Team marketplace project. My cart-focused contribution included UI for cart navi
 
 ## Find me online
 
-- **Portfolio:** https://k1kks.github.io/Kikks.github.io/
+- **Portfolio:** [My Portfolio](https://k1kks.github.io/Portfolio/)
 - **LinkedIn:** https://www.linkedin.com/in/mikael-lorenzo-cuyugan-6b2a99410/
 - **Email:** [mikaellorenzocuyugan@gmail.com](mailto:mikaellorenzocuyugan@gmail.com)
 
